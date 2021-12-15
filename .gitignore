@@ -1,3 +1,6 @@
+venv
 .idea/
 *.log
 *.pkl
+compile_keywords/compiled.txt
+etsy-shop-crawler/*.txt
